@@ -1,0 +1,5 @@
+
+{
+  "name": "GitHub Repo Risk Analyzer",
+  "description": "An application to analyze a GitHub repository for potential risks by examining its dependencies recursively. It uses AI to assess factors like maintainer reputation, commit history, and known vulnerabilities."
+}
